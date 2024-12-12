@@ -25,7 +25,7 @@
   - [Advent of Cyber 2024: Write Ups](https://github.com/rabataylor/THMAdvent2024)
   - [Jr Penetration Tester Pathway](https://github.com/rabataylor/THMJrPentester)
 
- <h2>Certificates and Courses</h2>
+ <h2>📚 Certificates and Courses</h2>
 
 - Microsoft IT Support Specialist (Oct 2024)
 - Microsoft Cloud Support Associate (In Progress)
