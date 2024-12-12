@@ -2,7 +2,7 @@
 
 <h4>Check out what I've been up to:</h4>
 
-<h2>👨‍💻 IT Support Projects</h2>
+<h2>👩🏾‍💻 IT Support Projects</h2>
 
 - <b>Active Directory</b>
   - [Windows Active Directory: User Creation (In Progress)](https://github.com/rabataylor/AD-BulkUserCreation)
@@ -15,7 +15,7 @@
 - <b>Microsoft Services</b>
   - [Azure Cloud Services (In Progress)](https://github.com/rabataylor/MSAzure)
 
-<h2>Cyber Security Projects</h2>
+<h2>🚨 Cyber Security Projects</h2>
 
 - <b>Phishing Simulation</b>
   - [Phishing Email and Analysis](https://github.com/rabataylor/Phishing-Simulation)
@@ -31,7 +31,7 @@
 - Microsoft Cloud Support Associate (In Progress)
 - CompTIA A+ (In Progress)
 
-<h2> 🤳 Let's Connect:</h2>
+<h2>🤳🏾 Let's Connect:</h2>
 
 [<img align="left" alt="RabaTaylor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="RabaTaylor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
